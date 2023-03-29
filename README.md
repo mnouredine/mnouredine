@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mnouredine
+- 👋 Hi, I’m Nouredine
 - 👀 I’m interested in @angular, @jhipster and @flutter
 - 🌱 I’m currently learning UX Design
 - 💞️ I’m looking to collaborate on mobile projects
